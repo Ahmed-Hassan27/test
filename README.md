@@ -18,7 +18,7 @@ The main goal is to:
 ---
 
 ## 👥 Team Members
-- Fatma Nageh (Team Leader)
+- Member 1 Name(Team Leader)
 - Member 2 Name
 - Member 3 Name
 - Member 4 Name
@@ -54,7 +54,7 @@ The main goal is to:
 
 | Member         | Responsibility                         |
 |----------------|----------------------------------------|
-| Fatma Nageh    | Team lead, coordination, reporting     |
+| Member 1       | Team lead, coordination, reporting     |
 | Member 2       | Login test automation                  |
 | Member 3       | Add to cart & assertions               |
 | Member 4       | Checkout flow + test data              |
