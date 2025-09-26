@@ -6,7 +6,7 @@
 Testoria - Automated UI Testing
 
 ## 💡 Project Idea
-We are building an automated UI testing framework using Selenium WebDriver (with Python) to test key user journeys on the demo e-commerce website: [SauceDemo](https://www.saucedemo.com).
+We are building an automated UI testing framework using Selenium WebDriver (with Java) to test key user journeys on the demo e-commerce website: [SauceDemo](https://www.saucedemo.com).
 
 The main goal is to:
 - Test the login functionality
